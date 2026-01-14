@@ -1,0 +1,67 @@
+[00:24:24] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.2
+[00:24:25] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+[00:24:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SMPUHC/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:24:34] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:24:39] [main/INFO]: Loaded 1461 recipes
+[00:24:39] [main/INFO]: Loaded 1574 advancements
+[00:24:39] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[00:24:39] [Server thread/INFO]: Loading properties
+[00:24:39] [Server thread/INFO]: Default game type: SURVIVAL
+[00:24:39] [Server thread/INFO]: Generating keypair
+[00:24:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:24:39] [Server thread/INFO]: Using epoll channel type
+[00:24:39] [Server thread/INFO]: Preparing level "world"
+[00:24:40] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:24:40] [Server thread/INFO]: Preparing spawn area: 100%
+[00:24:40] [Server thread/INFO]: Time elapsed: 16 ms
+[00:24:40] [Server thread/INFO]: Done (0.597s)! For help, type "help"
+[00:24:46] [User Authenticator #1/INFO]: UUID of player Venerablet_ is 85f05b6a-f008-4235-8e58-441fa17d0865
+[00:24:51] [Server thread/INFO]: Venerablet_[/127.103.10.217:51847] logged in with entity id 37 at (190.80289057249564, 69.0, -296.3845949002164)
+[00:24:51] [Server thread/INFO]: Venerablet_ joined the game
+[00:24:57] [User Authenticator #2/INFO]: UUID of player DemonKirin is 1cfa77cf-8724-4932-916c-07a564082790
+[00:25:00] [Server thread/INFO]: DemonKirin[/127.64.52.247:43627] logged in with entity id 316 at (302.08570918116345, 63.9375, 53.3255553923626)
+[00:25:00] [Server thread/INFO]: DemonKirin joined the game
+[00:25:06] [Server thread/WARN]: UUID of added entity already exists: class_9069['Armadillo'/512, l='ServerLevel[SMP UHC]', x=241.52, y=73.00, z=-100.79]
+[00:25:07] [Server thread/INFO]: <DemonKirin> bien
+[00:25:16] [Server thread/INFO]: <Venerablet_> estas vivo?
+[00:25:20] [Server thread/INFO]: <DemonKirin> seh
+[00:25:24] [Server thread/INFO]: <Venerablet_> ya vengo
+[00:25:33] [Server thread/INFO]: Venerablet_ lost connection: Disconnected
+[00:25:33] [Server thread/INFO]: Venerablet_ left the game
+[00:38:11] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[00:38:11] [Server thread/INFO]: mano<--[HERE]
+[00:38:16] [Server thread/INFO]: [Not Secure] [Server] mano
+[00:38:19] [Server thread/INFO]: <DemonKirin> xd
+[00:38:23] [Server thread/INFO]: [Not Secure] [Server] e
+[00:38:32] [Server thread/INFO]: <DemonKirin> ohhh servera
+[00:38:41] [Server thread/INFO]: [Not Secure] [Server] que pasa cagaaaaa
+[00:38:43] [Server thread/INFO]: <DemonKirin> sacrificare un cerdo por una etiqueta
+[00:38:57] [Server thread/INFO]: [Not Secure] [Server] pero no lo veo mano
+[00:39:03] [Server thread/INFO]: [Not Secure] [Server] manda evidencia al discord del server
+[00:39:08] [Server thread/INFO]: <DemonKirin> XD
+[00:43:45] [Server thread/INFO]: DemonKirin was slain by Zombie
+[00:46:22] [Server thread/INFO]: [Not Secure] [Server] A ver escribe
+[00:46:24] [Server thread/INFO]: [Not Secure] [Server] xddd
+[00:46:27] [Server thread/INFO]: <DemonKirin> XD
+[00:46:34] [Server thread/INFO]: <DemonKirin> si fue timing
+[00:46:46] [Server thread/INFO]: Set DemonKirin's game mode to Survival Mode
+[00:46:49] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[00:46:49] [Server thread/INFO]: YA creo<--[HERE]
+[00:46:52] [Server thread/INFO]: [Not Secure] [Server] ya creo
+[00:48:57] [Server thread/INFO]: DemonKirin lost connection: Disconnected
+[00:48:57] [Server thread/INFO]: DemonKirin left the game
+[00:49:49] [Server thread/INFO]: Stopping the server
+[00:49:50] [Server thread/INFO]: Stopping server
+[00:49:50] [Server thread/INFO]: Saving players
+[00:49:50] [Server thread/INFO]: Saving worlds
+[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SMP UHC]'/minecraft:overworld
+[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SMP UHC]'/minecraft:the_nether
+[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SMP UHC]'/minecraft:the_end
+[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
